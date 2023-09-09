@@ -10,7 +10,7 @@ Sebelum Anda mulai, pastikan Anda memiliki perangkat lunak berikut terpasang:
 
 Saat project ini dibuat, API payment belum bisa digunakan.
 
-Demo Aplikasi(https://drive.google.com/file/d/1_MLAQxAC3Qy6PPV81f6iQeZfDgTrytgw/view?usp=sharing)
+[Demo Aplikasi](https://drive.google.com/file/d/1_MLAQxAC3Qy6PPV81f6iQeZfDgTrytgw/view?usp=sharing)
 
 ### Buka terminal di folder project
 
