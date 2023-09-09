@@ -10,15 +10,15 @@ Sebelum Anda mulai, pastikan Anda memiliki perangkat lunak berikut terpasang:
 
 ### Buka terminal di folder project
 
-## Instalasi
+#### Instalasi
 npm install
-# atau
+##### atau
 yarn install
 
-## Linking Fonts (Optional)
+#### Linking Fonts (Optional)
 npx react-native-asset
 
-## IOS Setup Jika Menggunakan IOS
+#### IOS Setup Jika Menggunakan IOS
 npx pod-install
 
 
