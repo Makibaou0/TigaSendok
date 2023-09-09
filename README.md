@@ -1,4 +1,4 @@
-# Rian Ahmad - TigaSendok
+# Rian Ahmad Saepudin - TigaSendok
  
 Sebelum Anda mulai, pastikan Anda memiliki perangkat lunak berikut terpasang:
 
