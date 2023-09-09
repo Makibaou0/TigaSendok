@@ -25,5 +25,9 @@ npx react-native-asset
 #### IOS Setup Jika Menggunakan IOS
 npx pod-install
 
+#### Jalankan Aplikasi
+- npm run android (Jika Menggunakan Android)
+- npm run ios (Jika Menggunakan IOS)
+
 
 
